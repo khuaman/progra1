@@ -121,6 +121,7 @@ def ejercicio3(array):
     array = bubble_sort2(array)
     return array[:7]
 
+
 # print(ejercicio1("Hola, mundo!"))
 dic = dishes = {
     "Cusco": [
