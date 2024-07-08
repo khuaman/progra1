@@ -171,3 +171,4 @@ dic = dishes = {
 array = []
 print(ejercicio2(dic))
 print(ejercicio3(array))
+
